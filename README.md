@@ -7,7 +7,7 @@ This project includes a library that makes Ktor API calls. However, I am experie
 When I include the library in my main project using the following Gradle implementation:
 
 ```kotlin
-implementation(project(":library"))
+implementation(project(":mylibrary"))
 ```
 
 ## Error

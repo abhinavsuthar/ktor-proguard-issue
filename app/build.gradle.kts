@@ -40,7 +40,7 @@ android {
 
 dependencies {
 
-    api(project(":app:mylibrary"))
+    api(project(":mylibrary"))
 
     implementation(libs.ktor.core)
     implementation(libs.ktor.android)
